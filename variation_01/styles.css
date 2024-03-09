@@ -1,0 +1,100 @@
+#logo {
+    width: 6%;
+}
+
+#MainText, h1, legend {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.HeroSection {
+    display: flex;
+    background-image: url("../Images/5652030.jpg");
+    background-size:contain;
+    height: 675px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.textOnHero {
+    width: 60%;
+    padding: 7%;
+    padding-top: 15%;
+}
+
+.imgHero {
+    width: 39%;
+}
+
+#MyImageOnHero {
+    padding-top: 25%;
+}
+
+span {
+    color: rgb(101, 175, 139);
+}
+
+#Services {
+    padding-top: 10%;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+
+#keyAch {
+    padding-top: 10%;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+
+
+#PortfolioSec {
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+    padding-top: 5%;
+}
+
+
+#ContactSec {
+    background-color: rgba(0, 0, 0, 0.89);
+    padding-top: 5%;
+    padding-left: 40%;
+    color: white;
+}
+
+
+#SubscriptionSec {
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+    padding: 10%;
+}
+
+
+
+#TimelineSec {
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+
+
+
+
+footer {
+    display: flex;
+    width: 100%;
+    padding-top: 200px;
+    padding-left: 10%;
+    padding-bottom: 2%;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+
+#github, #linkedin {
+    width: 50%;
+    margin-left: 200%;
+    margin-top: 20%;
+}
+
+#twitter {
+    margin-left: 250%;
+    margin-top: 20%;
+}

@@ -1,0 +1,145 @@
+#logo {
+    width: 6%;
+}
+
+#MainText, h1, legend {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.HeroSection {
+    display: flex;
+    background-image: url("../Images/portfolio_Background.gif");
+    background-size:contain;
+    height: 675px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.textOnHero {
+    padding: 7%;
+    padding-top: 15%;
+    color: black;
+}
+
+#MyImageOnHero {
+    padding-top: 25%;
+}
+
+span {
+    color: rgb(101, 175, 139);
+}
+
+#Services {
+    padding-top: 10%;
+}
+
+#keyAch {
+    padding-top: 10%;
+}
+
+
+#PortfolioSec {
+    padding-top: 5%;
+}
+
+
+#ContactSec {
+    padding-top: 5%;
+    padding-left: 40%;
+}
+
+
+#SubscriptionSec {
+    padding: 10%;
+}
+
+#TimelineSec {    
+    padding-top: 15%;
+}
+
+
+/* Portfolio Section Code */
+#GetInTouchSection {
+    width: 100%;
+    margin-top: 75px;
+    display: flex;
+}
+
+#designInfo {
+    width: 40%;
+    margin-left: 10%;
+}
+
+#touchForm {
+    width: 35%;
+    margin-left: 10%;
+    height: fit-content;
+    background-color: azure;
+    padding-bottom: 50px;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], #TextMessage {
+    width: 80%;
+    margin-left: 10%;
+    height: 50px;
+    margin-top: 4%;
+    border: 2px solid black;
+    color: white;
+}
+
+.touchC {
+    margin-left: 10%;
+}
+
+#TextMessage {
+    height: 200px;
+}
+
+input[type="submit"] {
+    width: 50%;
+    margin-left: 10%;
+    height: 40px;
+    background-color: rgb(0, 255, 166);
+    margin-top: 5%;
+    font-size: large;
+    font-weight: bolder;
+}
+
+input[type="submit"]:hover {
+    background-color: black;
+    color: rgb(0, 255, 166);
+    border: 3px solid rgb(0, 255, 166);
+}
+
+.review {
+    width: 46%;
+    margin: 1%;
+    height: 100px;
+    text-align: center;
+}
+
+sub {
+    display: flex;
+    margin: 0%;
+}
+
+
+footer {
+    display: flex;
+    width: 100%;
+    padding-top: 200px;
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+
+#github, #linkedin {
+    width: 50%;
+    margin-left: 200%;
+    margin-top: 20%;
+}
+
+#twitter {
+    margin-left: 250%;
+    margin-top: 20%;
+}
